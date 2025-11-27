@@ -130,11 +130,11 @@
 
         Symbols_and_FN {
             bindings = <
-&trans        &trans  &kp F10  &kp F11  &kp F12  &trans    &kp C_VOLUME_UP    &kp CARET          &kp AMPERSAND         &kp ASTERISK           &kp AT          &kp GRAVE         &kp TILDE
-&trans        &trans  &kp F7   &kp F8   &kp F9   &trans    &kp C_VOLUME_DOWN  &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LESS_THAN   &kp GREATER_THAN  &kp SEMICOLON
-&kp CAPSLOCK  &trans  &kp F4   &kp F5   &kp F6   &trans    &kp C_PREVIOUS     &kp UNDERSCORE     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LEFT_BRACE  &kp RIGHT_BRACE   &trans
-&trans        &trans  &kp F1   &kp F2   &kp F3   &trans    &kp C_NEXT         &kp HASH           &kp EQUAL             &kp MINUS              &kp PLUS        &trans            &trans
-&trans        &trans  &trans   &trans   &trans   &trans    &kp C_PLAY_PAUSE   &trans             &trans                &trans                 &trans          &trans
+&trans        &trans  &kp F10  &kp F11  &kp F12  &trans    &kp C_VOLUME_UP    &kp CARET          &kp AMPERSAND          &kp ASTERISK       &kp AT           &kp GRAVE         &kp TILDE
+&trans        &trans  &kp F7   &kp F8   &kp F9   &trans    &kp C_VOLUME_DOWN  &kp DOUBLE_QUOTES  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp GREATER_THAN  &kp SEMICOLON
+&kp CAPSLOCK  &trans  &kp F4   &kp F5   &kp F6   &trans    &kp C_PREVIOUS     &kp UNDERSCORE     &kp LEFT_PARENTHESIS   &kp LEFT_BRACKET   &kp LEFT_BRACE   &kp LESS_THAN     &kp APOSTROPHE
+&trans        &trans  &kp F1   &kp F2   &kp F3   &trans    &kp C_NEXT         &kp HASH           &kp EQUAL              &kp MINUS          &kp PLUS         &trans            &trans
+&trans        &trans  &trans   &trans   &trans   &trans    &kp C_PLAY_PAUSE   &trans             &trans                 &trans             &trans           &trans
             >;
 
             display-name = "Symbols_and_FN";
