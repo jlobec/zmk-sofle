@@ -347,9 +347,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-low$$
   - '"'
-  - (
   - )
-  - <
+  - {t: ']', s: '}'}
+  - '}'
   - '>'
   - {t: ;, s: ':'}
   - $$mdi:apple-keyboard-caps$$
@@ -360,11 +360,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - PREVIOUS
   - _
+  - (
   - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
   - '{'
-  - '}'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - <
+  - {t: '''', s: '"'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - F1
